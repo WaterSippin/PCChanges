@@ -1,0 +1,20 @@
+TCP Optimizer,  choco install tcpoptimizer -y, Optimizes network, Optimizer, choco
+HellZerg Optimizer,  https://github.com/WaterSippin/PCChanges/raw/main/optimizer.exe, Optimizes PC, Optimizer, url
+Opera,  choco install opera -y, Web browser, Browser, choco
+LightShot,  choco install lightshot -y, Screenshot tool, Tools, choco
+Bitwarden,  choco install bitwarden -y, Password holder, Tools, choco
+7Zip,  choco install 7zip.install -y, File compressor, Compression, choco
+Everything Search,  choco install everything -y, Better search tool, Tools, choco
+VS Code,  choco install vscode -y, Lightweight code editor, Programming, choco
+VLC,  choco install vlc -y, Better media viewer, Media, choco
+Terminal,  choco install microsoft-windows-terminal -y, Better terminal, Terminal, choco
+Telegram,  choco install telegram -y, Chat app, Chat, choco
+Steam,  choco install steam -y, Game launcher, Gaming, choco
+Process Lasso, choco install plasso -y, Process optimizer, Optimizer, choco
+QBittorrent,  choco install qbittorrent -y, Torrent downloader, Torrent, choco
+Python3,  choco install python3 -y, Python engine, Programming, choco
+Handbrake,  choco install handbrake -y, Video encoder, Video, choco
+Epic Games,  choco install epicgameslauncher -y, Game launcher, Gaming, choco
+Geforce Experience,  choco install geforce-experience -y, NVidia GPU tools, Gaming, choco
+Opera GX,  choco install opera-gx -y, Gaming browser, Browser, choco
+Discord,  choco install discord -y, Chat app, Chat, choco
