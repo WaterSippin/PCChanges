@@ -1,0 +1,140 @@
+{
+    "WindowsVersion": 11,
+    "PostAction": {
+        "Restart": null,
+        "RestartType": "Normal"
+    },
+    "Cleaner": {
+        "TempFiles": null,
+        "BsodDumps": null,
+        "ErrorReports": null,
+        "RecycleBin": null,
+        "InternetExplorer": null,
+        "GoogleChrome": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null,
+            "Passwords": null
+        },
+        "MozillaFirefox": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null
+        },
+        "MicrosoftEdge": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null
+        },
+        "BraveBrowser": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null,
+            "Passwords": null
+        }
+    },
+    "Pinger": {
+        "SetDNS": "",
+        "CustomDNSv4": [],
+        "CustomDNSv6": [],
+        "FlushDNSCache": null
+    },
+    "ProcessControl": {
+        "Prevent": [],
+        "Allow": []
+    },
+    "HostsEditor": {
+        "Block": [],
+        "Add": [],
+        "Remove": [],
+        "IncludeWwwCname": null
+    },
+    "RegistryFix": {
+        "TaskManager": null,
+        "CommandPrompt": null,
+        "ControlPanel": null,
+        "FolderOptions": null,
+        "RunDialog": null,
+        "RightClickMenu": null,
+        "WindowsFirewall": null,
+        "RegistryEditor": null
+    },
+    "Integrator": {
+        "TakeOwnership": null,
+        "OpenWithCMD": null
+    },
+    "AdvancedTweaks": {
+        "UnlockAllCores": null,
+        "DisableHPET": null,
+        "EnableLoginVerbose": null,
+        "SvchostProcessSplitting": {
+            "Disable": null,
+            "RAM": null
+        }
+    },
+    "Tweaks": {
+        "EnablePerformanceTweaks": true,
+        "DisableNetworkThrottling": true,
+        "DisableWindowsDefender": false,
+        "DisableSystemRestore": true,
+        "DisablePrintService": true,
+        "DisableMediaPlayerSharing": true,
+        "DisableErrorReporting": true,
+        "DisableHomeGroup": true,
+        "DisableSuperfetch": true,
+        "DisableTelemetryTasks": true,
+        "DisableOffice2016Telemetry": true,
+        "DisableCompatibilityAssistant": true,
+        "DisableHibernation": true,
+        "DisableSMB1": true,
+        "DisableSMB2": true,
+        "DisableNTFSTimeStamp": true,
+        "DisableFaxService": true,
+        "DisableSmartScreen": true,
+        "DisableStickyKeys": true,
+        "DisableCloudClipboard": true,
+        "EnableLegacyVolumeSlider": true,
+        "DisableQuickAccessHistory": true,
+        "DisableStartMenuAds": true,
+        "UninstallOneDrive": true,
+        "DisableMyPeople": true,
+        "DisableAutomaticUpdates": true,
+        "ExcludeDrivers": true,
+        "DisableTelemetryServices": true,
+        "DisablePrivacyOptions": true,
+        "DisableCortana": true,
+        "DisableSensorServices": true,
+        "DisableWindowsInk": true,
+        "DisableSpellingTyping": true,
+        "DisableXboxLive": true,
+        "DisableGameBar": true,
+        "DisableInsiderService": true,
+        "DisableStoreUpdates": true,
+        "EnableLongPaths": true,
+        "RemoveCastToDevice": true,
+        "EnableGamingMode": true,
+        "TaskbarToLeft": null,
+        "DisableSnapAssist": true,
+        "DisableWidgets": true,
+        "DisableChat": true,
+        "TaskbarSmaller": null,
+        "DisableStickers": true,
+        "ClassicRibbon": true,
+        "ClassicMenu": true,
+        "DisableTPMCheck": true,
+        "CompactMode": true,
+        "DisableVirtualizationBasedTechnology": true,
+        "DisableVisualStudioTelemetry": true,
+        "DisableFirefoxTemeletry": true,
+        "DisableChromeTelemetry": true,
+        "DisableNVIDIATelemetry": true,
+        "DisableSearch": true,
+        "DisableEdgeDiscoverBar": true,
+        "DisableEdgeTelemetry": true,
+        "DisableCoPilotAI": true,
+        "RestoreClassicPhotoViewer": true
+    }
+}
