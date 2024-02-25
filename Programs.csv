@@ -1,0 +1,117 @@
+TCP Optimizer,  choco install tcpoptimizer, Optimizes network, Optimizer, choco
+HellZerg Optimizer,  https://github.com/WaterSippin/PCChanges/raw/main/optimizer.exe, Optimizes PC, Optimizer, url
+Opera,  choco install opera, Web browser, Browser, choco
+LightShot,  choco install lightshot, Screenshot tool, Tools, choco
+Bitwarden,  choco install bitwarden, Password holder, Tools, choco
+7Zip,  choco install 7zip.install, File compressor, Compression, choco
+Everything Search,  choco install everything, Better search tool, Tools, choco
+VS Code,  choco install vscode, Lightweight code editor, Programming, choco
+VLC,  choco install vlc, Better media viewer, Media, choco
+Terminal,  choco install microsoft-windows-terminal, Better terminal, Terminal, choco
+Telegram,  choco install telegram, Chat app, Chat, choco
+Steam,  choco install steam, Game launcher, Gaming, choco
+Process Lasso, choco install plasso, Process optimizer, Optimizer, choco
+QBittorrent,  choco install qbittorrent, Torrent downloader, Torrent, choco
+Python3,  choco install python3, Python engine, Programming, choco
+Handbrake,  choco install handbrake, Video encoder, Video, choco
+Epic Games,  choco install epicgameslauncher, Game launcher, Gaming, choco
+Geforce Experience,  choco install geforce-experience, NVidia GPU tools, Gaming, choco
+Opera GX,  choco install opera-GX, Gaming browser, Browser, choco
+Discord,  choco install discord, Chat app, Chat, choco
+Zoom,  choco install zoom, Video chat app, Chat, choco
+Glasswire, glasswire.ps1, Network monitor, Network, local
+Google Drive, https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe, Cloud storage, Cloud, url
+JDownloader,  choco install jdownloader, Download manager, Download, choco
+Motrix,  choco install motrix, Download manager, Download, choco
+SmokeAPI, smokeapi.ps1, Game modding, Gaming, local
+Pixelator, pixelator.ps1, Image editor, Image, local
+Torguard, torguard.ps1, VPN, VPN, local
+Blender,  choco install blender, 3D editor, 3D, choco
+Obsidian,  choco install obsidian, Note taking app, Note, choco
+Google Chrome,  choco install googlechrome, Web browser, Browser, choco
+Thunderbird, choco install thunderbird, Email client, Email, choco
+Adobe Substance Designer, Adobe Substance 3D Designer.ps1, 3D editor, 3D, local
+Adobe Substance Painter, Adobe Substance 3D Painter.ps1, 3D editor, 3D, local
+AHK Studio, AHK Studio.ps1, AHK editor, AHK, local
+Asset Manager Studio, Asset Manager Studio Setup 0.15.ps1, Game Development, Game, local
+Asset Forge, Asset Forge.ps1, 3D editor, 3D, local
+Davinci Resolve, DaVinci Resolve 18.1.2.ps1, Video editor, Video, local
+x64dbg, x64dbg.ps1, Debugger, Debug, local
+Bulk Crap Uninstaller, choco install bulk-crap-uninstaller, Uninstaller, Tools, choco
+BSG Launcher, BSGLauncher.ps1, Game launcher, Gaming, local
+Chiptone, Chiptone.ps1, Sound editor, Sound, local
+Docker, choco install docker-desktop, Container manager, Container, choco
+Driver Booster, driverbooster.ps1, Driver updater, Tools, local
+Origin, choco install origin, Game launcher, Gaming, choco
+Flow Frames, flowframes.ps1, Animation editor, Video Editing, local
+KenneyShape, kenneyshape.ps1, 3D editor, 3D, local
+Vencord, vencord.ps1, Discord Plugin, Plugin, local
+Undetected Cheat Engine, UDCE.ps1, Cheat Engine, Cheat, local
+Wireshark, choco install wireshark, Network monitor, Network, choco
+VMProtect, vmprotect_install.ps1, Software protector, Protection, local
+Paint.net, choco install paint.net, Image editor, Image, choco
+Parsec, choco install parsec, Game streaming, Gaming, choco
+Pico Cad, Pico Cad.ps1, 3D editor, 3D, local
+Reclass, ReClass.Net.ps1, Memory editor, Memory, local
+Lightworks, Lightworks 2023.1.ps1, Video editor, Video, local
+Visual Studio 2022, vs2022.ps1, Code editor, Programming, local
+Process Monitor, choco install procmon, Process monitor, Tools, choco
+Raylib Installer, RayLib Installer.ps1, Game Development, Game, local
+ISLC, islc.ps1, Memory cleaner, Memory, local
+Playnite, choco install playnite, Game launcher, Gaming, choco
+Putty, choco install putty, SSH client, SSH, choco
+Pycharm, choco install pycharm, Python editor, Programming, choco
+Rufus, choco install rufus, Bootable USB creator, Tools, choco
+Super Position, Super Position.ps1, Benchmark, Benchmark, local
+Total Reg, Total Reg.ps1, Registry editor, Registry, local
+User Benchmark, User Benchmark Installer.ps1, Benchmark, Benchmark, local
+Instant Mesh, Instant Mesh.ps1, 3D editor, 3D, local
+Ghidra, ghidra_10.4_PUBLIC.ps1, Decompiler, Decompiler, local
+MSI Afterburner, choco install msiafterburner, GPU overclocker, Overclock, choco
+MSI Kombustor, MSI Kombustor4 Setup.ps1, GPU stress test, Stress, local
+Medal, medal.ps1, Game recorder, Recording, local
+Nyrna, Nyrna Portable.ps1, Game Development, Game, local
+Soundlock, soundlock.ps1, Sound limiter, Sound, local
+Space Sniffer, choco install spacesniffer, Disk analyzer, Tools, choco
+Twitch Downloader, TwitchDownloaderGUI.ps1, Video downloader, Download, local
+Asset Studio, assetstudio.ps1, Unity Extractor, 3D, local
+AutoDesk Maya, AUTODESK MAYA 2023.ps1, 3D editor, 3D, local
+LDPlayer, ldplayer.ps1, Android emulator, Emulator, local
+GPU-Z, choco install gpu-z, GPU monitor, Monitor, choco
+IDA Pro 7, IDA Portable 7.0.17.914.ps1, Decompiler, Decompiler, local
+OOSU10, OOSU10.ps1, Windows 10 optimizer, Optimizer, local
+Marmoset Toolbag, Marmoset Toolbag 4.0.ps1, 3D editor, 3D, local
+NVidia Profile Inspector, Nvidia Profile Inspector.ps1, NVidia settings, Settings, local
+F3D, f3d.ps1, 3D viewer, 3D, local
+Headshot for CC4, Headshot 1.0.0506.1 For CC4.ps1, CC4 Plugin, 3D, local
+Parsehub, parsehub-setup.ps1, Web scraper, Web, local
+Simp Slayer, Simp Slayer.ps1, Edgy Game, Game, local
+Registry Cleaner, Registry Cleaner.ps1, Registry cleaner, Registry, local
+Scanlines 4 Windows, Scanlines 4 Windows.ps1, Scanlines for windows, Fun, local
+Decker, Decker.ps1, Book like game, Game, local
+Speedfan, choco install speedfan, Fan controller, Fan, choco
+Jesus Strikes Back 2, JSB2.ps1, Edgy Game, Game, local
+Core Temp, choco install coretemp, CPU monitor, Monitor, choco
+CRT View, CRTView.ps1, Makes windows look like a CRT, Fun, local
+Notepad ++, choco install notepadplusplus, Text editor, Text, choco
+ShaderGlass, Shader Glass.ps1, Shader editor, Fun, local
+Video Corrupter, Video Corrupter.ps1, Corrupts videos, Fun, local
+Task Ticker, TaskTicker.ps1, Taskbar ticker, Productivity, local
+VCR Effect, VCR effect.ps1, Makes windows look like a VCR, Fun, local
+oalinst, oalinst.ps1, OpenAL installer, Sound, local
+Screen2Gif, ScreenToGif.ps1, Gif maker, Gif, local
+Reallusion CC4, Reallusion.ps1, 3D editor, 3D, local
+Sharp Mono Injector, SharpMonoInjector.ps1, Game modding, Game, local
+Image to Pixel, Image2Pixel.ps1, Pixel art maker, Art, local
+MuEditor, MuEditor 1.2.0.ps1, Music editor, Music, local
+GOG Galaxy, choco install goggalaxy, Game launcher, Gaming, choco
+Resharper, JetBrains ReSharper 2023.1.4.ps1, VS plugin for resharper, Programming, local
+Resharper C++, JetBrains ReSharper Cpp 2023.1.4.ps1, VS plugin for resharper, Programming, local
+Photoshop Plugins Pack, Photoshop Plugins 8.55.01.ps1, Photoshop plugins, Image, local
+IClone 8, Reallusion iClone 8.01.ps1, 3D editor, 3D, local
+Stable Diffusion Web UI, Stable Diffusion Web UI.ps1, Web UI, Web, local
+VBCable, vbcable.ps1, Virtual audio cable, Sound, local
+Multiviewer, Multiviewer 2.1.ps1, Multi viewer, Viewer, local
+Hacking Tools, Hacking Tools.ps1, Hacking tools, Hacking, local
+Whisper Desktop, WhisperDesktop.ps1, Chat app, Chat, local
+Western Digital Software, Install Western Digital Software for Windows.ps1, Western Digital Software, Tools, local
