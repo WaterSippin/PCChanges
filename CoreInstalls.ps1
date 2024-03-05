@@ -1,18 +1,18 @@
-choco install opera
-choco install bitwarden
-choco install torguard-client
-choco install everything
-choco install vscode
-choco install steam
-choco install epicgameslauncher
-choco install telegram
-choco install plasso
-choco install handbrake
-choco install vlc
-choco install lightshot
-choco install tcpoptimizer
-choco install qbittorrent
-choco install geforce-experience
-choco install microsoft-windows-terminal
-choco install python3
-choco install 7zip.install
+choco install opera -y
+choco install bitwarden -y
+choco install torguard-client -y
+choco install everything -y
+choco install vscode -y
+choco install steam -y
+choco install epicgameslauncher -y
+choco install telegram -y
+choco install plasso -y
+choco install handbrake -y
+choco install vlc -y
+choco install lightshot -y
+choco install tcpoptimizer -y
+choco install qbittorrent -y
+choco install geforce-experience -y
+choco install microsoft-windows-terminal -y
+choco install python3 -y
+choco install 7zip.install -y
