@@ -156,3 +156,11 @@
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Multimedia\Audio]
 "UserDuckingPreference"=dword:00000003
 
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.ps1\shell\RunWithPowerShellAsAdmin]
+@="Run with PowerShell as Admin"
+"Icon"="powershell.exe"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.ps1\shell\RunWithPowerShellAsAdmin\command]
+@="powershell.exe -Command \"Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File \\\"%1\\\"' -Verb RunAs\""
+
+
