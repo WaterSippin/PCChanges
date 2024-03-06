@@ -6,7 +6,7 @@ $ScriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
 
 # Construct the full path to the optimizer.exe
-$OptimizerPath = Join-Path $ScriptPath "..\Applications\optimizer.exe"
+$OptimizerPath = Join-Path $ScriptPath "..\optimizer.exe"
 
 
 Start-Process -FilePath $OptimizerPath -ArgumentList "/restart=DisableDefender"
